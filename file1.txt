@@ -1,1 +1,3 @@
 prima riga del file1.txt
+seconda riga del file2.txt
+terza riga del file3.txt
